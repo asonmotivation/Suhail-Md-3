@@ -54,8 +54,7 @@
 --------
 6.  #### DEPLOY IN KOYEB
 
-<a href='https://app.koyeb.com/auth/signin' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-KOYEB-blue?style=for-the-badge&logo=koyeb&logoColor=white'/></a>
-
+[![Deploy to Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/deploy?type=git&repository=https://github.com/fxgurv/Suhail-Md-3&branch=main&name=Suhail-Md-Bot&ports=3000;http;/&env[OWNER_NAME]&env[PREFIX]&env[OWNER_NUMBER]&env[SESSION_ID]&env[OPENAI_API_KEY]&env[ELEVENLAB_API_KEY]&env[REMOVE_BG_KEY]&env[MODE]&env[PACK_NAME]&env[PACK_AUTHER]&env[TZ]&env[CAN_WELCOME]&env[CAN_GOODBYE]&env[FLUSH]&env[BOT_NAME]&env[MSGS_IN_LOG]&env[WARN_COUNT]&env[PORT]=3000)
 --------
 7.  #### DEPLOY IN GLITCH
 
